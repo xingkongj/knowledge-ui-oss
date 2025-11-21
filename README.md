@@ -99,7 +99,7 @@ pnpm preview   # 或 npm run preview
 - 提交 PR 前请运行 `pnpm lint` 并确保无警告
 
 ## 许可证
-本项目开源，许可证建议使用 MIT（可根据实际需要添加 `LICENSE` 文件）。
+本项目采用 `CC BY-NC 4.0` 非商业许可证：允许非商业使用与修改，须署名；禁止任何商业用途。详见 `LICENSE` 文件与 https://creativecommons.org/licenses/by-nc/4.0/
 
 ## 仓库地址
 - GitHub：`https://github.com/xingkongj/knowledge-ui-oss`
